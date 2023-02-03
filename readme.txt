@@ -1,1 +1,0 @@
-1. My goal is to build a portfolio in Data Science, in Python, R and SQL.
